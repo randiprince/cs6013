@@ -1,9 +1,7 @@
 #include <iostream>
 #include <unistd.h>
-#include <sys/types.h>
+#include <sys/wait.h>
 
-#pragma clang diagnostic push
-#pragma ide diagnostic ignored "UnreachableCode"
 int main(int argc, char * argv[]) {
     int fd[2]; // file descriptors read and write
     int status;
@@ -44,5 +42,3 @@ int main(int argc, char * argv[]) {
     }
     return 0;
 }
-
-#pragma clang diagnostic pop
