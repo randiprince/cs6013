@@ -23,14 +23,12 @@ public:
     HashNode* myHashTableStart;
 
     HashTable();
-    HashTable(size_t capacity);
     ~HashTable();
 
     void insert(HashNode hashNode);
-    void remove(void *ptr);
+    size_t remove(void *ptr);
     void grow();
     size_t hashFunctor(void *ptr);
-    HashNode getNodeToDelete(void *ptr);
 };
 
 
