@@ -1,0 +1,10 @@
+# ninja log v5
+2	181	1681349333367062503	CMakeFiles/ThreadSafeQueue.dir/main.cpp.o	29acb86d34e7a621
+13	520	1681350209821400957	CMakeFiles/ThreadSafeQueue.dir/SerialQueueTests.cpp.o	b64c0d0bf3872387
+1	246	1681350220690506432	CMakeFiles/ThreadSafeQueue.dir/ConcurrentQueueTest.cpp.o	5cd617be00dde5bb
+491	529	1681350137719253824	ThreadSafeQueue	2ad09254eb6d40ef
+5	52	1681350386614860675	ThreadSafeQueue	30a80458fe3b8b7a
+1	370	1681350401774938756	CMakeFiles/ConcurrentQueue.dir/ConcurrentQueueTest.cpp.o	731b79603811b13f
+370	395	1681350401802152205	ConcurrentQueue	a6825381e1bdc719
+12	519	1681354138421762267	CMakeFiles/ConcurrentQueue.dir/ConcurrentQueueTest.cpp.o	731b79603811b13f
+519	557	1681354138462647565	ConcurrentQueue	a6825381e1bdc719

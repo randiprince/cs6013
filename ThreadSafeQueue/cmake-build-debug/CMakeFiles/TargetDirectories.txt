@@ -1,0 +1,4 @@
+/Users/randiprince/cs6013/ThreadSafeQueue/cmake-build-debug/CMakeFiles/ThreadSafeQueue.dir
+/Users/randiprince/cs6013/ThreadSafeQueue/cmake-build-debug/CMakeFiles/ConcurrentQueue.dir
+/Users/randiprince/cs6013/ThreadSafeQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/randiprince/cs6013/ThreadSafeQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

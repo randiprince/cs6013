@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ThreadSafeQueue",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ConcurrentQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ConcurrentQueue-Debug-e44a3579c8658f10aacf.json",
+					"name" : "ConcurrentQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreadSafeQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreadSafeQueue-Debug-9fddfe1a58d73a931ae7.json",
+					"name" : "ThreadSafeQueue",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/randiprince/cs6013/ThreadSafeQueue/cmake-build-debug",
+		"source" : "/Users/randiprince/cs6013/ThreadSafeQueue"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
